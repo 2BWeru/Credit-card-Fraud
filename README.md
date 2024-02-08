@@ -1,8 +1,8 @@
 Credit Card Fraud Detection 
+
 This project aims to detect fraudulent credit card transactions using machine learning algorithms.
 
 Installation
-To run the project locally, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies using pip install -r requirements.txt.
 3. Download the dataset (creditcard.csv) and place it in the project directory.
@@ -14,6 +14,7 @@ Usage
 4. Analyze the results and fine-tune the models as needed.
 
 Results
+
 The project aims to achieve a high detection rate for fraudulent transactions while minimizing false positives. 
 
 
