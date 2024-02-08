@@ -1,20 +1,17 @@
-** Credit Card Fraud Detection **
+Credit Card Fraud Detection 
 This project aims to detect fraudulent credit card transactions using machine learning algorithms.
 
-* Installation *
+Installation
 To run the project locally, follow these steps:
-
-Clone the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Download the dataset (creditcard.csv) and place it in the project directory.
+1. Clone the repository to your local machine.
+2. Install the required dependencies using pip install -r requirements.txt.
+3. Download the dataset (creditcard.csv) and place it in the project directory.
 
 Usage
-To use the project, follow these steps:
-
-Run the credit_card_fraud_detection.ipynb notebook.
-Follow the instructions in the notebook to load and preprocess the dataset.
-Train and evaluate machine learning models to detect fraudulent transactions.
-Analyze the results and fine-tune the models as needed.
+1. Run the credit_code.ipynb notebook.
+2. Follow the instructions in the notebook to load and preprocess the dataset.
+3. Train and evaluate machine learning models to detect fraudulent transactions.
+4. Analyze the results and fine-tune the models as needed.
 
 Results
 The project aims to achieve a high detection rate for fraudulent transactions while minimizing false positives. 
