@@ -35,7 +35,22 @@ This code snippet imports several libraries and sets up some configurations for 
 
 ![g5](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/ecfbd302-e6c9-4ba0-b323-fb061f333d07)
 
-![g5b](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/171be16f-b469-4074-9cc1-b6923420e55e)
+![new1](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/f9af2d82-cb83-4354-b0d6-2795b0ca3b0d)
+
+![new2](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/ee2adf44-c7b9-43df-ba7d-92c116bc5f9e)
+
+![new3](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/f39e6948-aa1b-4b59-ab9d-7bff53f7f3c0)
+
+![new4](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/3d99203d-ff29-42c8-8c85-3d112c557892)
+
+![new5](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/d80d01fd-2153-43eb-9da8-fd8649c4e444)
+
+
+
+
+
+
+
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
