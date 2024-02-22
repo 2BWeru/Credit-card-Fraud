@@ -35,6 +35,8 @@ This code snippet imports several libraries and sets up some configurations for 
 
 ![g5](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/ecfbd302-e6c9-4ba0-b323-fb061f333d07)
 
+![old](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/7e352d6d-3d94-4832-bb81-58d9ceb795aa)
+
 ![new1](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/f9af2d82-cb83-4354-b0d6-2795b0ca3b0d)
 
 ![new2](https://github.com/2BWeru/Credit-card-Fraud/assets/86661774/ee2adf44-c7b9-43df-ba7d-92c116bc5f9e)
